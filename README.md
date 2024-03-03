@@ -1,3 +1,4 @@
 # first-git
 This is my first git repository.
-just for practice, edited by mansi
+<br>
+I am currently working on my first git project.
